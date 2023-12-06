@@ -156,7 +156,7 @@
     <string name="unsync_caldav_calendar">想移除 CalDAV 日历，您必须取消同步</string>
     <!-- Holidays -->
     <string name="holidays">节日</string>
-    <string name="add_holidays">添加节日</string>
+    <string name="add_holidays">添加农历和节日</string>
     <string name="national_holidays">法定节日</string>
     <string name="religious_holidays">宗教节日</string>
     <string name="holidays_imported_successfully">节日已成功导入节日活动类型</string>
