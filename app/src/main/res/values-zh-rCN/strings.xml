@@ -155,7 +155,7 @@
     <string name="remove_affected_events">受影响的活动永久移除</string>
     <string name="unsync_caldav_calendar">想移除 CalDAV 日历，您必须取消同步</string>
     <!-- Holidays -->
-    <string name="holidays">节日</string>
+    <string name="holidays">农历</string>
     <string name="add_holidays">添加农历和节日</string>
     <string name="national_holidays">法定节日</string>
     <string name="religious_holidays">宗教节日</string>
