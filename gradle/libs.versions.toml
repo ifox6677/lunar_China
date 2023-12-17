@@ -35,7 +35,7 @@ androidx-room-runtime = { module = "androidx.room:room-runtime", version.ref = "
 androidx-room-ktx = { module = "androidx.room:room-ktx", version.ref = "room" }
 androidx-room-compiler = { module = "androidx.room:room-compiler", version.ref = "room" }
 #Simple Mobile Tools
-simple-mobile-tools-commons = { module = "com.github.zhang0908:Simple-Commons", version.ref = "simple-commons" }
+simple-mobile-tools-commons = { module = "https://github.com/zhangjq0908/simple-commons", version.ref = "master" }
 [bundles]
 room = [
     "androidx-room-ktx",
