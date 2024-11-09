@@ -5,6 +5,6 @@
 https://raw.githubusercontent.com/zhangjq0908/lunar_China/master/lunar_calendar_2026_to_2030.ics
 https://raw.githubusercontent.com/ifox6677/lunar_China/refs/heads/master/lunar_calendar_2025_to_2032.ics
 =================================================================================================================
-天文
+天文日历数据来自skyfield，主要有水星 金星和超级月亮（不一定准确）和冬夏至，春秋分的太阳黄道位置。
 
 https://raw.githubusercontent.com/ifox6677/lunar_China/refs/heads/master/astronomical_events.ics
