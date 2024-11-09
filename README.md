@@ -4,3 +4,6 @@
 农历订阅地址：
 https://raw.githubusercontent.com/zhangjq0908/lunar_China/master/lunar_calendar_2026_to_2030.ics
 https://raw.githubusercontent.com/ifox6677/lunar_China/refs/heads/master/lunar_calendar_2025_to_2032.ics
+天文
+
+https://raw.githubusercontent.com/ifox6677/lunar_China/refs/heads/master/astronomical_events.ics
