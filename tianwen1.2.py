@@ -17,11 +17,10 @@ events_list = []
 
 # 设置时间范围
 start_time = ts.utc(datetime.utcnow().year)
-end_time = ts.utc(datetime.utcnow().year + 10)
+end_time = ts.utc(datetime.utcnow().year + 18)
 
 # 定义观察位置（用于逆行计算）
 observer_location = Topos(latitude_degrees=39.9042, longitude_degrees=116.4074)
-
 
 # 设置中国时间（CST）
 china_tz = pytz.timezone('Asia/Shanghai')
@@ -40,16 +39,21 @@ def find_retrograde(planet, name):
             in_retrograde = True
             retro_start = current_time.utc_datetime().replace(tzinfo=pytz.utc).astimezone(china_tz)  # 转换为中国时间
             retro_start_longitude = current_longitude
-            print(f"{name}逆行开始: {retro_start}, 黄道值: {retro_start_longitude}")
 
         elif in_retrograde and current_longitude > previous_longitude:
             # 逆行结束
             in_retrograde = False
             retro_end = current_time.utc_datetime().replace(tzinfo=pytz.utc).astimezone(china_tz)  # 转换为中国时间
             retro_end_longitude = current_longitude
+            retro_duration = (retro_end - retro_start).days  # 计算逆行持续天数
+
+            # 如果逆行持续天数小于2天，则忽略该事件
+            if retro_duration < 2:
+                print(f"{name}逆行持续时间太短（{retro_duration}天），已忽略")
+                continue
+
             description = f"{name}逆行：从 {retro_start.strftime('%Y-%m-%d')} 到 {retro_end.strftime('%Y-%m-%d')} 开始黄道值: {retro_start_longitude:.2f}°, 结束黄道值: {retro_end_longitude:.2f}°"
             print(description)
-
             # 添加逆行事件到事件列表
             event = Event()
             event.add('summary', f'{name}逆行')
@@ -78,7 +82,6 @@ def find_super_moons():
             phase_name = "满月" if abs(phase - 180) < 10 else "新月" if phase < 10 or phase > 350 else "其他"
             event_start = current_time.utc_datetime().replace(tzinfo=pytz.utc).astimezone(china_tz)  # 转换为中国时间
             description = f"超级{phase_name}：距离 {distance_km:.0f} 公里，相位 {phase:.1f}°"
-            print(description)
 
             # 添加超级月亮事件到事件列表
             event = Event()
@@ -102,7 +105,7 @@ find_super_moons()
 # 计算春分、夏至、秋分和冬至节气数据
 seasons = almanac.seasons(eph)
 t, season = almanac.find_discrete(start_time, end_time, seasons)
-season_names = ["春分", "夏至", "秋分", "冬至"]
+season_names = ["春分", "夏至", "秋分", "冬至节"]
 
 for ti, s in zip(t, season):
     event_start = ti.utc_datetime().replace(tzinfo=pytz.utc).astimezone(china_tz)  # 转换为中国时间
@@ -112,7 +115,6 @@ for ti, s in zip(t, season):
     ecliptic_longitude = sun_position.ecliptic_latlon()[1].degrees
     
     description = f"{season_names[s]}发生时间：{event_start.strftime('%Y-%m-%d %H:%M:%S')} CST 太阳黄道：{ecliptic_longitude:.2f}° "
-    print(description)
 
     # 添加节气事件到事件列表
     event = Event()
