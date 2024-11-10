@@ -113,7 +113,8 @@ year_to_convert = 2029
 num_of_years = 6
 ics_result = generate_lunar_calendar(year_to_convert, num_of_years)
 
-with open(f"lunar_calendar_{year_to_convert}_to_{year_to_convert + num_of_years - 1}.ics", "w") as file:
+filename = f"lunar_calendar_{year_to_convert}_to_{year_to_convert + num_of_years - 1}.ics"
+with open(filename, "w", encoding="utf-8") as file:
     file.write(ics_result)
 
 print(f"文件 lunar_calendar_{year_to_convert}_to_{year_to_convert + num_of_years - 1}.ics 已生成")
