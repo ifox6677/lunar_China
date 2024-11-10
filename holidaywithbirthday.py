@@ -62,7 +62,7 @@ def generate_lunar_calendar(start_year, num_of_years):
         laba_festival = lunar_to_solar(year, 12, 8)
         kitchen_god_day = lunar_to_solar(year, 12, 24)
         xiaonian = lunar_to_solar(year, 12, 23)
-        dongzhi = lunar_to_solar(year, 11, 10)
+        dongzhi = lunar_to_solar(year, 4, 8)
 
         # 计算除夕
         lunar_new_year = lunar_to_solar(year, 1, 1)
@@ -96,7 +96,7 @@ def generate_lunar_calendar(start_year, num_of_years):
         add_event(events, birthday_zhangxda, "张晰生日")
         add_event(events, birthday_bssheng, "张胜生日")
         add_event(events, birthday_bsyang, "杨琳生日")
-        add_event(events, dongzhi, "冬至节")
+        add_event(events, dongzhi, "佛诞节")
         add_event(events, mid_autumn, "中秋节")
         add_event(events, zhongyuan, "中元节")
         add_event(events, yuanxiao, "元宵节")
