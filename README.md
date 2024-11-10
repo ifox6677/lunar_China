@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/ifox6677/lunar_China/refs/heads/master/lunar_c
 =================================================================================================================
 天文日历数据来自skyfield，主要有水星 金星和超级月亮（不一定准确）和冬夏至，春秋分的太阳黄道位置。
 
-https://raw.githubusercontent.com/ifox6677/lunar_China/refs/heads/master/astronomical_events.ics
+https://raw.githubusercontent.com/ifox6677/lunar_China/refs/heads/master/astronomical_events_0.ics
 
 =========================================================================================
 https://raw.githubusercontent.com/ifox6677/lunar_China/refs/heads/master/lunar_holidayswithbirthday.ics
