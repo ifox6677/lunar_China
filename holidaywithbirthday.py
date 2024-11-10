@@ -1,5 +1,6 @@
 from lunardate import LunarDate
 from datetime import datetime, timedelta
+import hashlib
 
 # 计算复活节的日期
 def easter(year):
@@ -37,10 +38,12 @@ def lunar_to_solar(year, month, day):
 
 # 辅助函数：添加节日到事件列表
 def add_event(events, date, name, description=None):
+    uid = hashlib.md5(f"{name}-{date}".encode()).hexdigest()  # 生成唯一 UID
     events.append({
         "date": datetime.combine(date, datetime.min.time()),
         "name": name,
-        "description": description
+        "description": description,
+        "uid": uid
     })
 
 # 生成农历和公历节日的日历
@@ -57,7 +60,7 @@ def generate_lunar_calendar(start_year, num_of_years):
         dragon_boat_festival = lunar_to_solar(year, 5, 5)
         double_ninth_festival = lunar_to_solar(year, 9, 9)
         laba_festival = lunar_to_solar(year, 12, 8)
-        kitcheng_god_day = lunar_to_solar(year, 12, 24)
+        kitchen_god_day = lunar_to_solar(year, 12, 24)
         xiaonian = lunar_to_solar(year, 12, 23)
         dongzhi = lunar_to_solar(year, 11, 10)
 
@@ -98,7 +101,7 @@ def generate_lunar_calendar(start_year, num_of_years):
         add_event(events, zhongyuan, "中元节")
         add_event(events, yuanxiao, "元宵节")
         add_event(events, qixi, "七夕节")
-        add_event(events, kitcheng_god_day, "灶君上天日")
+        add_event(events, kitchen_god_day, "灶君上天日")
         add_event(events, spring_festival, "春节")
         add_event(events, dragon_boat_festival, "端午节")
         add_event(events, tomb_sweeping_day, "清明节")
@@ -130,10 +133,10 @@ def generate_lunar_calendar(start_year, num_of_years):
         event_start = event["date"].strftime("%Y%m%d")
         event_end = (event["date"] + timedelta(days=1)).strftime("%Y%m%d")
         description = f"\nDESCRIPTION:{event['description']}" if event["description"] else ""
-        event_entry = f"BEGIN:VEVENT\nSUMMARY:{event['name']}{description}\nDTSTART;VALUE=DATE:{event_start}\nDTEND;VALUE=DATE:{event_end}\nEND:VEVENT\n"
+        event_entry = f"BEGIN:VEVENT\nSUMMARY:{event['name']}{description}\nDTSTART;VALUE=DATE:{event_start}\nDTEND;VALUE=DATE:{event_end}\nUID:{event['uid']}\nEND:VEVENT\n"
         ics_data += event_entry
 
-    ics_calendar = f"BEGIN:VCALENDAR\nVERSION:2.0\n{ics_data}END:VCALENDAR"
+    ics_calendar = f"BEGIN:VCALENDAR\nVERSION:2.0\nCALSCALE:GREGORIAN\nPRODID:-//Your Product//Your Calendar//EN\n{ics_data}END:VCALENDAR"
     return ics_calendar
 
 # 使用示例
@@ -142,7 +145,7 @@ num_of_years = 28
 ics_result = generate_lunar_calendar(start_year, num_of_years)
 
 # 写入文件
-with open("lunar_holidayswithbirthday.ics", "w") as file:
+with open("lunar_holidayswithbirthday.ics", "w", encoding="utf-8") as file:
     file.write(ics_result)
 
 print("Calendar generated: lunar_holidayswithbirthday.ics")
