@@ -49,7 +49,8 @@ def generate_lunar_calendar(start_year, num_of_years):
             lucky_god_str = ' '.join(a.get_luckyGodsDirection()) if isinstance(a.get_luckyGodsDirection(), list) else a.get_luckyGodsDirection()
             good_thing_str = ' '.join(a.goodThing) if isinstance(a.goodThing, list) else a.goodThing
             bad_thing_str = ' '.join(a.badThing) if isinstance(a.badThing, list) else a.badThing
-            level_name = f"({''.join(re.findall('[\u4e00-\u9fff]', a.todayLevelName[:2]))}) {a.todayLevelName[3:]}"
+            level_name = f"({''.join(re.findall('[\\u4e00-\\u9fff]', a.todayLevelName[:2]))}) {a.todayLevelName[3:]}"
+
 
             # 星体信息
             current_time = time_scale.utc(start_date.year, start_date.month, start_date.day)
