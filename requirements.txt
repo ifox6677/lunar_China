@@ -1,12 +1,11 @@
-cnlunar==0.1.3
-colorama==0.4.6
-ephem==4.1.6
+cnlunar
+ephem
 Flask==3.0.3
 frida==16.5.6
 frida-tools==13.6.0
-icalendar==6.0.1
+icalendar
 ics
-lunardate==0.2.2
+lunardate
 numpy
 pytz
 pyvo
