@@ -1,8 +1,6 @@
 cnlunar
 ephem
-Flask==3.0.3
-frida==16.5.6
-frida-tools==13.6.0
+re
 icalendar
 ics
 lunardate
