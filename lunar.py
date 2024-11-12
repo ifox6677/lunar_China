@@ -6,7 +6,7 @@ import time
 import re
 
 # 加载星历文件和时间
-eph = load('de430.bsp')
+eph = load('de421.bsp')
 earth = eph['earth']
 sun = eph['sun']
 moon = eph['moon']
