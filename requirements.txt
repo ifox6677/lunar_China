@@ -1,6 +1,5 @@
 cnlunar
 ephem
-re
 icalendar
 ics
 lunardate
