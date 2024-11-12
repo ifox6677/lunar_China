@@ -3,6 +3,8 @@ name: Update lunar.ics
 on:
   schedule:
     - cron: '0 0 1 1,11 *'  # 每年1月和11月的1号 00:00 UTC 运行（约每10个月）
+    
+  workflow_dispatch:
 
 jobs:
   update-lunar-ics:
@@ -24,7 +26,7 @@ jobs:
 
     - name: Run Python script to update lunar.ics
       run: |
-        python update_lunar_ics.py
+        python lunar.py
 
     - name: Commit and push changes to lunar.ics
       run: |
