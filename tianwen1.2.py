@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 from icalendar import Calendar, Event
 
 # 加载天体历表
-eph = load('de430.bsp') 
+eph = load('de421.bsp') 
 ts = load.timescale()
 
 # 初始化日历对象
@@ -17,7 +17,7 @@ events_list = []
 
 # 设置时间范围
 start_time = ts.utc(datetime.utcnow().year)
-end_time = ts.utc(datetime.utcnow().year + 18)
+end_time = ts.utc(datetime.utcnow().year + 2)
 
 # 定义观察位置（用于逆行计算）
 observer_location = Topos(latitude_degrees=39.9042, longitude_degrees=116.4074)
