@@ -1,23 +1,35 @@
-name: build
+name: Update lunar.ics
 
-on: [push, pull_request, workflow_dispatch]
+on:
+  schedule:
+    - cron: '0 0 1 1,11 *'  # 每年1月和11月的1号 00:00 UTC 运行（约每10个月）
+
 jobs:
-  build:
+  update-lunar-ics:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v1
+    - name: Checkout code
+      uses: actions/checkout@v2
 
-    - name: Setup JDK 17
-      uses: actions/setup-java@v1
+    - name: Set up Python
+      uses: actions/setup-python@v4
       with:
-        java-version: 17
+        python-version: '3.9'
 
-    - name: Build with Gradle
-      run: ./gradlew assembleDebug
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
 
-    - uses: actions/upload-artifact@v3
-      with:
-        name: app-debug.apk
-        path: app/build/outputs/apk//fdroid/debug/calendar-fdroid-debug.apk
+    - name: Run Python script to update lunar.ics
+      run: |
+        python update_lunar_ics.py
+
+    - name: Commit and push changes to lunar.ics
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add lunar.ics
+        git commit -m "Update lunar.ics with new data"
+        git push origin main
