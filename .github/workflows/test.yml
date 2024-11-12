@@ -3,7 +3,7 @@ name: Update lunar.ics
 
 on:
   schedule:
-    - cron: '0 0 1 2,11 *'  # 每年1月和11月的1号 00:00 UTC 运行（约每10个月）
+    - cron: '0 0 9 9 *'  # 每年1月和11月的1号 00:00 UTC 运行（约每10个月）
     
   workflow_dispatch:
 
