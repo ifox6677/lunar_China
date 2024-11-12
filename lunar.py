@@ -85,7 +85,7 @@ def generate_lunar_calendar(start_year, num_of_years):
 
             # 生成事件描述
             description = (
-                f"太阳黄道: {dec_sun:.1f} 月亮相位: {moon_d:.1f} {a.starZodiac} "
+                f"太阳黄道: {dec_sun:.3f} 月亮相位: {moon_d:.1f} {a.starZodiac} "
                 f"\\n八字: {eight_characters} \\n今日六合: {a.zodiacMark6} \\n生肖冲煞: {a.chineseZodiacClash} "
                 f"\\n今日胎神: {a.get_fetalGod()} \\n今日五行: {elements_with_commas} \\n时辰: {lunar_time.replace(' ', '')} "
                 f"\\n十二神: {'；'.join(a.get_today12DayOfficer()).replace(',', '').replace('；', '')} \\n宜: {good_thing_str} "
