@@ -133,7 +133,7 @@ for event in events_list:
     calendar.add_component(event)
 
 # 导出到ICS文件
-with open('astronomical_events.ics', 'wb') as f:
+with open('astronomicals.ics', 'wb') as f:
     f.write(calendar.to_ical())
 
 print("事件已写入 'astronomical_events.ics'")
