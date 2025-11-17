@@ -1,0 +1,38 @@
+
+name: Update holidaywithbirthday.ics
+
+on:
+  schedule:
+    - cron: '0 0 9 9 *'  # 每年1月和11月的1号 00:00 UTC 运行（约每10个月）
+    
+  workflow_dispatch:
+
+jobs:
+  update-tianqi-ics:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run Python script to update lunar.ics
+      run: |
+        python holidaywithbirthday.py
+
+    - name: Commit and push changes to lunar.ics
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add holidaywithbirthday.ics
+        git commit -m "Update holidaywithbirthday.ics with new data"
+        git push origin master
