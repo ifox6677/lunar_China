@@ -17,7 +17,7 @@ events_list = []
 
 # 设置时间范围
 start_time = ts.utc(datetime.utcnow().year)
-end_time = ts.utc(datetime.utcnow().year + 2)
+end_time = ts.utc(datetime.utcnow().year + 8)
 
 # 定义观察位置（用于逆行计算）
 observer_location = Topos(latitude_degrees=39.9042, longitude_degrees=116.4074)
