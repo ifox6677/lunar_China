@@ -140,8 +140,8 @@ def generate_lunar_calendar(start_year, num_of_years):
     return ics_calendar
 
 # 使用示例
-start_year = 2024
-num_of_years = 28
+start_year = 2025
+num_of_years = 8
 ics_result = generate_lunar_calendar(start_year, num_of_years)
 
 # 写入文件
