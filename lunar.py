@@ -114,7 +114,7 @@ def generate_lunar_calendar(start_year, num_of_years):
 year_to_convert = datetime.now().year
 
 # 你想转换的年份数
-num_of_years = 2
+num_of_years = 3
 
 # 调用生成函数
 ics_result = generate_lunar_calendar(year_to_convert, num_of_years)
