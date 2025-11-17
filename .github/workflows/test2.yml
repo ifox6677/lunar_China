@@ -25,11 +25,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Run Python script to update lunar.ics
+    - name: Run Python script to update holidaywithbirthday.ics
       run: |
         python holidaywithbirthday.py
 
-    - name: Commit and push changes to lunar.ics
+    - name: Commit and push changes to holidaywithbirthday.ics
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
