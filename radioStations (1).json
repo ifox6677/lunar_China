@@ -1,0 +1,1103 @@
+[ 
+  {
+    "name": "广东新闻",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",   
+    "iurl": "https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8",   
+    "category": "GDHK"  
+  },
+  {
+    "name": "广东电台HD",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",   
+    "iurl": "https://www.gdtv.cn/audioChannelDetail/85",   
+    "category": "GDHK"  
+  }, 
+  {
+    "name": "东莞电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/247.jpg",  
+    "iurl": "https://stream.sun0769.com/dgrtv1/mp4tv10/index.m3u8",
+    "category": "GDHK"  
+  },  
+  {
+    "name": "广东音乐",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gd993.png",   
+    "iurl": "https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8",   
+    "category": "Music"  
+  },
+  {
+    "name": "珠江台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdjz.png",   
+    "iurl": "https://satellitepull.cnr.cn/live/wxgdzjjjt/playlist.m3u8",   
+    "category": "GDHK"  
+  },  
+  {
+    "name": "羊城交通台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdjt.png",   
+    "iurl": "https://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8",   
+    "category": "GDHK"  
+  },
+  {
+    "name": "广东文体",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdwt.png",   
+    "iurl": "https://satellitepull.cnr.cn/live/wxgdwtgb/playlist.m3u8",   
+    "category": "GDHK"  
+  },
+  {
+    "name": "珠江2台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/zj2.png",   
+    "iurl": "https://satellitepull.cnr.cn/live/wxnyzs/playlist.m3u8",   
+    "category": "GDHK"  
+  },  
+  {
+    "name": "佛山新闻",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/fs946.png",   
+    "iurl": "https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_46_audio.m3u8",   
+    "category": "GDHK"  
+  },
+  {
+    "name": "六点新闻（晚）",
+    "imageUrl": "https://yt3.googleusercontent.com/5SyayqjT175EHx7Mox79MUkBCqCK5wXgu6IfQz3YoQFVByGncsc79K63Dmvr4FwYMAv_EsYJ6A=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=SIRmGtJ4Yc8&list=PLIpRvnEkgEeU15yy2o_5gKQjr79KP8O2O",   
+    "category": "YTlist"  
+  }, 
+  {
+    "name": "六点新闻（早）",
+    "imageUrl": "https://yt3.googleusercontent.com/5FVXPQk0Hyxa-MgHG0jd0YPLWGcpfHfTCJIO_YYrP1mt2kPuQjRGNmrh4ykB6Avo6CIGD8Dv=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=2d89Lx-SvqA&list=PLKoXXVQa3yxCbgfZiuq61w9UhEI085PHu",   
+    "category": "YTlist"  
+  },    
+  {
+    "name": "顺德901",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/%E4%BD%9B%E5%B1%B1901.jpg",   
+    "iurl": "https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_44_audio.m3u8",   
+    "category": "GDHK"  
+  },
+  {
+    "name": "MyFM",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gggzzzz13.jpg",  
+    "iurl": "https://tencentplay.gztv.com/live/fm880.m3u8?txSecret=a417c5f2c19b065b5d901a3be28c5ec9&txTime=195e68d982e",
+    "category": "GDHK"  
+  },
+  {
+    "name": "客家电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/633211.webp",   
+    "iurl": "https://lhttp.qingting.fm/live/5021942/64k.mp3",   
+    "category": "GDHK"  
+  },  
+  {
+    "name": "中广流行网",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bcc-lx.jpg",   
+    "iurl": "https://stream.rcs.revma.com/s1zttsg3qtzuv",   
+    "category": "taiwan"  
+  },
+  {
+    "name": "寰宇世界",
+    "imageUrl": "https://yt3.googleusercontent.com/rcKSZ9TOod8vM90qsaF8pV6e6Mrh_INiOfhzRlLXiyvzeOYGoJrL2fWWGH0pHu-N0_rRdCLPbg=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=Ej3LQM_lTEw",   
+    "category": "YTlist"  
+  },                            
+  {
+    "name": "股坛MM",
+    "imageUrl": "https://yt3.googleusercontent.com/RNfbgeS-VCLdVBNnkprS-mAvTudP50rg1YA--0YVvbvdNuVoP7D3VuS77uiXjfNcBuwT7VD1eLg=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=rvpw2_pFlvc&list=PLbk8xgD8UcPzDCRi6OmknIZc67Td3x04I",   
+    "category": "YTlist"  
+  },
+  {
+    "name": "好投资",
+    "imageUrl": "https://yt3.googleusercontent.com/rRLGNDCKvo8p4m48BBb3e0W4gyqclu9geaWiCvg2u5Mu2ujgpr-u-k10fqj3esGnqH0nBoQ8=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC337UWjXqFohuHRk4fLQkTw",   
+    "category": "YTlist"  
+  },  
+  {
+    "name": "东森新闻",
+    "imageUrl": "https://yt3.googleusercontent.com/3SP20B5NfOMGNTvAd4PkffLIHt7vA5_SrtefsCbmKBm4k4uD5JhSE2LzDsPyxWT6RP3BiW4vAA=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=V1p33hqPrUk",   
+    "category": "YTlist"  
+  },  
+  {
+    "name": "读本好书",
+    "imageUrl": "https://yt3.googleusercontent.com/SGZWzm9KK2T5yA5KdK2PUgLeJOHh4-1tPEoh7geH6a7fEtVWciJw1S1g_KSC9Dz3XQvtYVbX=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=9rr9tLfrZb0&list=PLFkHgNWcmIh6kwEP_rPXfcFKAh__L4cmt",   
+    "category": "YTlist"  
+  },
+  {
+    "name": "IC之音",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/ic-broadcasting.jpg",   
+    "iurl": "https://stream.rcs.revma.com/7mnq8rt7k5zuv",   
+    "category": "taiwan"  
+  },
+  {
+    "name": "SET新势力（19：30）",
+    "imageUrl": "https://yt3.googleusercontent.com/Ev3QRwfGxQ06hrCT8lo2fez7eq9S8MKKfJjE0Y5VG-pi68vFft4iT3aWYHiXhoClRG5yMpzUAA=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=dNzjBtbzx-4&list=PLF0zBBU4L_6ittYTFEFNB--FXKvsmebER",   
+    "category": "YTlist"  
+  }, 
+  {
+    "name": "TVBS",
+    "imageUrl": "https://yt3.ggpht.com/IrPD-qWFtgEr0kplk7RvA5HWJz3BLzg8mBMh9bz2lNvRSE_YgCErB7dheHcQohExnC_VCdCKnA=s176-c-k-c0x00ffffff-no-rj-mo",   
+    "iurl": "https://www.youtube.com/watch?v=m_dhMSvUCIc",   
+    "category": "YTlist"  
+  },
+  {
+    "name": "TVBS世界周报",
+    "imageUrl": "https://yt3.googleusercontent.com/GDivs2QeF1xqitaBR3zwnwYZ7xJ3iiQl55CJ1HIFDg1zh2FU88lsGxN2i8o4A1YMSAshvZjY=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=8C0RxlA5ebQ&list=PLyvXVH_86VfblqpVtRq7D9vRyQMl6o2E8",   
+    "category": "YTlist"  
+  },
+  {
+    "name": "光明顶",
+    "imageUrl": "https://yt3.googleusercontent.com/GDivs2QeF1xqitaBR3zwnwYZ7xJ3iiQl55CJ1HIFDg1zh2FU88lsGxN2i8o4A1YMSAshvZjY=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=tVnhomu14Q8&list=PL8F48316AE9AB7B14",   
+    "category": "YTlist"  
+  },
+  {
+    "name": "飞碟电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E9%A3%9E%E7%A2%9F%E7%94%B5%E5%8F%B0.png",   
+    "iurl": "https://stream.rcs.revma.com/em90w4aeewzuv",   
+    "category": "taiwan"  
+  },
+  {
+    "name": "飞碟电台HD",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E9%A3%9E%E7%A2%9F%E7%94%B5%E5%8F%B0.png",   
+    "iurl": "https://www.uforadio.com.tw/schedule",   
+    "category": "taiwan"  
+  },  
+  {
+    "name": "全国FM",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/%E5%85%A8%E5%9B%BDFM.jpg",   
+    "iurl": "https://stream.rcs.revma.com/044q61ha7a0uv",   
+    "category": "taiwan"  
+  },  
+  {
+    "name": "广州新闻",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gggzzz.jpg",   
+    "iurl": "https://lhttp.qingting.fm/live/4848/64k.mp3",   
+    "category": "GDHK" 
+  },
+  {
+    "name": "上海音乐",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/lovefm.jpg",  
+    "iurl": "https://rs.ajmide.com/r_2/live_2.m3u8",
+    "category": "taiwan2" 
+  },
+  {
+    "name": "新客家",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/mlkj.jpg",  
+    "iurl": "http://43.254.16.40:8000/ML.FM91.7?.mp3",
+    "category": "taiwan2" 
+  },  
+  {
+    "name": "北京文艺",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bjwenyi.jpg",  
+    "iurl": "https://brtv-radiolive.rbc.cn/alive/fm876.m3u8",
+    "category": "taiwan2" 
+  },  
+  {
+    "name": "北京城市",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bjcs.jpg",  
+    "iurl": "https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8",
+    "category": "taiwan2" 
+  },  
+  {
+    "name": "华侨之声音乐",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/hizsyy.jpg",  
+    "iurl": "https://stream.radiojar.com/60sqadqu97zuv.mp3",
+    "category": "taiwan2" 
+  }, 
+  {
+    "name": "新西兰",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025032068367993.jpg",  
+    "iurl": "https://s26.myradiostream.com:20274/listen.mp3",
+    "category": "taiwan2" 
+  },  
+  {
+    "name": "栗子轻音乐",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/lizi.png",  
+    "iurl": "http://lizeradio.com:8080/;?.mp3",
+    "category": "Music"  
+  },
+  {
+    "name": "YES993",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/yes933.png",  
+    "iurl": "https://provisioning.streamtheworld.com/pls/YES933AAC.pls",
+    "category": "Music"  
+  },
+  {
+    "name": "飞扬调频",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/feiyangi.jpg",  
+    "iurl": "https://stream.rcs.revma.com/e0tdah74hv8uv",
+    "category": "Music"  
+  },  
+  {
+    "name": "HAO963",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/hao.jpg",  
+    "iurl": "https://provisioning.streamtheworld.com/pls/HAO_963AAC.pls",
+    "category": "Music"  
+  },  
+  {
+    "name": "佛山925",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/889.jpg",  
+    "iurl": "https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_42_audio.m3u8",
+    "category": "GDHK"  
+  },
+  {
+    "name": "渔业电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/yydt.jpg",  
+    "iurl": "https://stream.rcs.revma.com/mk0c5vq122hvv",
+    "category": "taiwan"  
+  },  
+  {
+    "name": "九八电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/98.png",  
+    "iurl": "https://stream.rcs.revma.com/pntx1639ntzuv",
+    "category": "taiwan"  
+  },
+  {
+    "name": "中广新闻",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bcc-news.jpg",  
+    "iurl": "https://stream.rcs.revma.com/fgtx07f3qtzuv",
+    "category": "taiwan"  
+  },  
+  {
+    "name": "福州交通",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bcc-news.jpg",  
+    "iurl": "https://live.zohi.tv/audio/s10001-FM876/index.m3u8",
+    "category": "taiwan"  
+  },
+  {
+    "name": "讲客电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/kjdt.jpg",  
+    "iurl": "https://stream-eu-a.rcs.revma.com/akqrbx94gbkvv",
+    "category": "GDHK"  
+  },
+  {
+    "name": "大千电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/kjdt.jpg",  
+    "iurl": "http://125.227.87.206:8000/FM99.1?.mp3",
+    "category": "GDHK"  
+  },   
+  {
+    "name": "东莞交通",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/online2.jpg",  
+    "iurl": "https://stream.sun0769.com/dgrtv1/mp4tv11/index.m3u8",
+    "category": "GDHK"  
+  }, 
+  {
+    "name": "河北音乐",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E6%B2%B3%E5%8C%97%E9%9F%B3%E4%B9%90%E5%B9%BF%E6%92%AD.png",   
+    "iurl": "https://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8",   
+    "category": "GDHK"  
+  },  
+  {
+    "name": "中国之声",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%e4%b8%ad%e5%9b%bd%e4%b9%8b%e5%a3%b0.png",
+    "iurl": "https://ngcdn001.cnr.cn/live/zgzs/index.m3u8",
+    "category": "china" 
+  },
+  {
+    "name": "央广",
+    "imageUrl": "https://archive.org/services/img/china-radio-international-06-03-2024-0000-utc-7350k-hz/full/pct:500/0/default.jpg",  
+    "iurl": "https://www.cnr.cn/gbzb/",
+    "category": "china" 
+  },  
+  {
+    "name": "经济之声",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E7%BB%8F%E6%B5%8E%E4%B9%8B%E5%A3%B0.png",
+    "iurl": "https://ngcdn002.cnr.cn/live/jjzs/index.m3u8",
+    "category": "china" 
+  },
+  {
+    "name": "好事983",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/best.jpg",  
+    "iurl": "https://stream.rcs.revma.com/q2m07dc59duvv",
+    "category": "taiwan"  
+  },
+  {
+    "name": "好事989",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/best.jpg",  
+    "iurl": "https://stream.rcs.revma.com/fkdywbc59duvv",
+    "category": "taiwan"  
+  },
+  {
+    "name": "新城财经",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-finance-fm.jpg",   
+    "iurl": "https://www.metroradio.com.hk/superhome/LiveMF.aspx",   
+    "category": "GDHK"  
+  },
+  {
+    "name": "新城资讯",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-showbiz-fm.jpg",   
+    "iurl": "https://www.metroradio.com.hk/superhome/Live997.aspx",   
+    "category": "GDHK"  
+  },  
+  {
+    "name": "普通话台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-putonghua.jpg",   
+    "iurl": "https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/index_64_a.m3u8",   
+    "category": "GDHK"  
+  },
+  {
+    "name": "普通话台HD",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-putonghua.jpg",   
+    "iurl": "https://www.rthk.hk/radio/pth",   
+    "category": "GDHK"  
+  },  
+  {
+    "name": "rthk-1",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-1.jpg",   
+    "iurl": "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8",   
+    "category": "GDHK"  
+  },
+  {
+    "name": "rthk-1HD",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-1.jpg",   
+    "iurl": "https://www.rthk.hk/radio/radio1",   
+    "category": "GDHK"  
+  },  
+  {
+    "name": "rthk-2",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-2.jpg",   
+    "iurl": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8",   
+    "category": "GDHK"  
+  },
+  {
+    "name": "rthk-2HD",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-2.jpg",   
+    "iurl": "https://www.rthk.hk/radio/radio2",   
+    "category": "GDHK"  
+  },  
+  {
+    "name": "rthk-5",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-5.jpg",   
+    "iurl": "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/index_64_a.m3u8",   
+    "category": "GDHK"  
+  },  
+  {
+    "name": "澳门电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/aomen.jpg",   
+    "iurl": "https://live3.tdm.com.mo/live/rch2.live/media_159761.aac",   
+    "category": "GDHK"  
+  },
+  {
+    "name": "深圳飞扬",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E6%B7%B1%E5%9C%B3%E9%A3%9E%E6%89%AC971.png",   
+    "iurl": "https://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8",   
+    "category": "GDHK"  
+  },  
+  {
+    "name": "深圳生活",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E6%B7%B1%E5%9C%B3%E7%94%9F%E6%B4%BB942.png",   
+    "iurl": "https://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8",   
+    "category": "GDHK"  
+  },  
+  {
+    "name": "晨早新闻天地",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bkhkczxw.jpg",   
+    "iurl": "https://news.rthk.hk/rthk/ch/news-programmes/this-episode.htm?cmsid=90",   
+    "category": "podcast"  
+  },
+  {
+    "name": "商业电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/881.png",  
+    "iurl": "https://www.881903.com/live/881",
+    "category": "GDHK"  
+  },
+  {
+    "name": "深圳生活",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/903.png",   
+    "iurl": "https://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8",   
+    "category": "GDHK"  
+  },
+  {
+    "name": "rthk-1(备)",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-1.jpg",   
+    "iurl": "https://stm.rthk.hk/radio1",   
+    "category": "GDHK"  
+  },
+  {
+    "name": "无线新闻",
+    "imageUrl": "https://yt3.ggpht.com/twse-CNDUyNOeQVZYRNdGiw0-nsjKfd-ivJU33RfDbVcxwatROIrgC7IrNyMTI9g89NEAeWSpQ=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_ifDTtFAcsj-wJ5JfM27CQ",   
+    "category": "YT"  
+  }, 
+  {
+    "name": "rthk-2(备)",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-2.jpg",   
+    "iurl": "https://stm.rthk.hk/radio2",   
+    "category": "GDHK"  
+  },
+  {
+    "name": "rthk-5（备）",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-5.jpg",   
+    "iurl": "https://stm.rthk.hk/radio5",   
+    "category": "GDHK"  
+  },
+  {
+    "name": "新城财经（备）",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-finance-fm.jpg",   
+    "iurl": "https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.m3u8",   
+    "category": "GDHK"  
+  },
+  {
+    "name": "新城资讯（备）",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-showbiz-fm.jpg",   
+    "iurl": "https://1603884249.rsc.cdn77.org/1603884249/tracks-a1/mono.m3u8",   
+    "category": "GDHK"  
+  },  
+  {
+    "name": "信报",
+    "imageUrl": "https://yt3.ggpht.com/gpLXxxGfLPluN5Us47CMvWZqQL7vkKsJ4ahvnF32AwdvWJP5CdfheS31ZUU1iHYWbis9g6LndNU=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UClRaYVzu5DIh3kRZkXIX9WA",   
+    "category": "YT"  
+  },
+    {
+    "name": "经济日报",
+    "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kIbiYIHoBVdxC0ZpPdKZOvx5ABLbvwJgi35Cd3xBTq0D8=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGw6s7FZV9AOwznWA-_Bt3Q",   
+    "category": "YT"  
+  },
+  {
+    "name": "Mila Yuen",
+    "imageUrl": "https://yt3.ggpht.com/TnhskyzmCS4eBjC5o_tOOl8ZW6fdJtGrSJUfIgJVOD5JuH_ywyirRv44bcf4S8OjecKDsSw6IA=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4G8Si5IBGy9k_1Oo04DMVg",   
+    "category": "YT"  
+  },  
+  {
+    "name": "MIX古典",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/e759fb6f.png",  
+    "iurl": "https://ottava2.out.airtime.pro/ottava2_a?.mp3",
+    "category": "Music"  
+  },
+  {
+    "name": "飞扬调频",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/fly-radio-fm-89-5.jpg",  
+    "iurl": "https://stream.rcs.revma.com/e0tdah74hv8uv",
+    "category": "taiwan"  
+  },
+  {
+    "name": "KAZN1300",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/kazn.png",  
+    "iurl": "https://video1.getstreamhosting.com:8308/stream?.mp3",
+    "category": "taiwan" 
+  },   
+
+  {
+    "name": "ufm1003",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/ufm.png",  
+    "iurl": "https://provisioning.streamtheworld.com/pls/UFM_1003AAC.pls",
+    "category": "Music" 
+  },   
+  {
+    "name": "love972",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/love.jpg",   
+    "iurl": "https://provisioning.streamtheworld.com/pls/LOVE972FMAAC.pls",   
+    "category": "Music"  
+  },  
+  {
+    "name": "e线金融网",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/hkpth.jpg",   
+    "iurl": "https://www.rthk.hk/radio/pth/programme/ezone2020",   
+    "category": "podcast"  
+  },
+  {
+    "name": "KBS新闻",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/63311.webp",   
+    "iurl": "https://feed.xyzfm.space/mkkxu98dm89e",   
+    "category": "podcast"  
+  },
+  {
+    "name": "西游记",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/20220706152754165709247475924.jpg",   
+    "iurl": "https://anchor.fm/s/f31ab078/podcast/rss",   
+    "category": "podcast"  
+  }, 
+  {
+    "name": "王路飞",
+    "imageUrl": "https://yt3.googleusercontent.com/Mq_VaDdINhLyCj_3Y-uugre3FYktmBDWNQiHcOxQDpCeXeasemH2irVuY5hkqPifauUDRBpP_Q=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmajVvuOjspOA9WtJGquDHA",   
+    "category": "podcast"  
+  },   
+  {
+    "name": "无线新闻",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/tvbimage.jpg",   
+    "iurl": "https://feeds.soundon.fm/podcasts/07593470-9f99-4b05-b8d2-98a6350a2891.xml",   
+    "category": "podcast"  
+  },  
+  {
+    "name": "好事聯播網",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/hq720.jpg",   
+    "iurl": "https://stream.rcs.revma.com/fkdywbc59duvv.mp3",   
+    "category": "taiwan"  
+  },
+  {
+    "name": "复兴电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/new4.png",   
+    "iurl": "https://stream.rcs.revma.com/srn5f9kmwxhvv",   
+    "category": "taiwan"  
+  },
+  {
+    "name": "國聲廣播",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/voice-of-han-broadcasting-netw.jpg",   
+    "iurl": "http://43.254.16.40:8000/CH.AM1179?.mp3",   
+    "category": "taiwan"  
+  },
+  {
+    "name": "台北电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/tbs.jpg",   
+    "iurl": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8",   
+    "category": "taiwan"  
+  },
+  {
+    "name": "硅谷101",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/9898989.jpg",   
+    "iurl": "https://feeds.fireside.fm/sv101/rss",   
+    "category": "podcast"  
+  },  
+  {
+    "name": "科技早知道",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/jEtYT.jpg",   
+    "iurl": "https://feeds.fireside.fm/guiguzaozhidao/rss",   
+    "category": "podcast"  
+  },  
+  {
+    "name": "台北电台AM",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/tbs.jpg",   
+    "iurl": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8",   
+    "category": "taiwan"  
+  },  
+  {
+    "name": "周公讲鬼",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/zgjg.jpg",     
+    "iurl": "https://www.omnycontent.com/d/playlist/7740012e-e1bd-4f85-81c4-a7f50047134a/54d4d500-6d5b-45b8-bd38-abad008f28b7/24b826c4-2b90-4d19-9bd1-abad008f92f2/podcast.rss",   	
+    "category": "podcast"  
+  },  
+  {
+    "name": "讲台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/talk.jpg",   
+    "iurl": "https://live.talkonly.net:8443/talkonly.mp3",   
+    "category": "podcast"  
+  },
+  {
+    "name": "高雄FM",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/8fm.png",  
+    "iurl": "https://stream-eu-a.rcs.revma.com/pet2dvug1bkvv",
+    "category": "taiwan"  
+  },  
+  {
+    "name": "高雄AM",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/988.png",  
+    "iurl": "https://stream-eu-a.rcs.revma.com/4r99rt1g1bkvv",
+    "category": "taiwan"  
+  },
+  {
+    "name": "塞浦路斯",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025040700596084.jpg",  
+    "iurl": "https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio?.mp3",
+    "category": "audiobook" 
+  },   
+  {
+    "name": "德云社",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025030935055469.jpg",   
+    "iurl": "https://stream.zeno.fm/yqawwmweq8mtv.mp3",   
+    "category": "audiobook"  
+  },  
+  {
+    "name": "澳洲华语",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/ac878.jpg",  
+    "iurl": "https://stream4.rcast.net/71937/",
+    "category": "audiobook" 
+  },   
+  {
+    "name": "加拿大中文",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025032078290297.jpg",   
+    "iurl": "https://stream.eseenet.com/radio/fm947.stream/chunklist_w1230117933.m3u8",   
+    "category": "audiobook"  
+  },  
+  {
+    "name": "桃园FM",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025072700632177_mini.jpg",   
+    "iurl": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm1043/playlist.m3u8",   
+    "category": "audiobook"  
+  },
+  {
+    "name": "佳音电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025072700085836_mini.jpg",   
+    "iurl": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm909/playlist.m3u8",   
+    "category": "audiobook"  
+  },     
+  {
+    "name": "奇美爱乐",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/kv.png",  
+    "iurl": "https://e-classical.com.tw/index.html",
+    "category": "Music"  
+  },  
+  {
+    "name": "台北爱乐电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/aylogo.png",  
+    "iurl": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm903/chunklist_w1430462928.m3u8",
+    "category": "Music"  
+  },
+  {
+    "name": "东南广播",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E7%A6%8F%E5%BB%BA%E4%B8%9C%E5%8D%97%E5%B9%BF%E6%92%AD.png",  
+    "iurl": "https://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8",
+    "category": "china" 
+  },  
+  {
+    "name": "福建音乐电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E7%A6%8F%E5%B7%9E%E9%9F%B3%E4%B9%90%E5%B9%BF%E6%92%AD.png",  
+    "iurl": "https://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8",
+    "category": "Music"  
+  },
+  {
+    "name": "安徽故事",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E5%AE%89%E5%BE%BD%E6%95%85%E4%BA%8B%E5%B9%BF%E6%92%AD.png",  
+    "iurl": "https://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8",
+    "category": "china" 
+  },
+  {
+    "name": "故事FM",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/dHAucG5n.png",   
+    "iurl": "https://feeds.storyfm.cn/storyfm.xml",   
+    "category": "podcast"  
+  },
+  {
+    "name": "浙江经济之声",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E6%B5%99%E6%B1%9F%E7%BB%8F%E6%B5%8E%E5%B9%BF%E6%92%AD.png",
+    "iurl": "https://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8",
+    "category": "china" 
+  },  
+  {
+    "name": "苗栗电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/cityfm.png",  
+    "iurl": "http://fm983.cityfm.tw:8080/983.mp3",
+    "category": "taiwan"  
+  },
+    {
+    "name": "大声广播",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/Xfa3C9vcsw.png",   
+    "iurl": "https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3",   
+    "category": "taiwan"
+  },
+  {
+    "name": "城市广播901",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/cityfm.png",  
+    "iurl": "http://fm901.cityfm.tw:8080/901.mp3",
+    "category": "taiwan"  
+  },  
+  {
+    "name": "中广音乐",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E4%B8%AD%E5%B9%BF%E9%9F%B3%E4%B9%90%E7%BD%91.png",  
+    "iurl": "https://stream.rcs.revma.com/ks4vsmg3qtzuv",
+    "category": "Music"  
+  },
+  {
+    "name": "轻松调频",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E8%BD%BB%E6%9D%BE%E8%B0%83%E9%A2%91.png",  
+    "iurl": "http://sk.cri.cn/915.m3u8",
+    "category": "Music"  
+  },
+  {
+    "name": "CNR经典音乐",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E5%93%88%E5%B0%94%E6%BB%A8%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90%E5%B9%BF%E6%92%AD.png",  
+    "iurl": "https://satellitepull.cnr.cn/live/wxdszs/playlist.m3u8",
+    "category": "Music"  
+  },
+  {
+    "name": "古典音乐",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E5%8F%B0%E6%B9%BE%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90%E5%8F%B0.png",  
+    "iurl": "http://59.120.88.155:8000/live.mp3",
+    "category": "Music"  
+  },
+  {
+    "name": "四川文艺",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E5%9B%9B%E5%B7%9D%E6%96%87%E8%89%BA%E5%B9%BF%E6%92%AD.png",
+    "iurl": "https://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8",
+    "category": "china" 
+  },
+  {
+    "name": "中广go",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/radio-i-go-531.png",
+    "iurl": "https://stream.rcs.revma.com/s7hc9kpy2tzuv",
+    "category": "taiwan"  
+  },
+  {
+    "name": "台中电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/fm1007.png",
+    "iurl": "http://211.20.119.101:8081",
+    "category": "taiwan"  
+  },
+  {
+    "name": "美声电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/nbc-fm91-5.png",
+    "iurl": "http://1.34.23.16:8080/broadwavehigh.mp3",
+    "category": "taiwan"  
+  },  
+  {
+    "name": "宝岛客家",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/fm937.jpg",
+    "iurl": "http://taiwan-radio.tw:8000/TP.FM93.7",
+    "category": "taiwan"  
+  }, 
+  {
+    "name": "神农广播",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/fm995.jpg",  
+    "iurl": "https://stream.rcs.revma.com/uyaghqmdm3hvv.m4a",
+    "category": "taiwan" 
+  },  
+  {
+    "name": "CNR音乐之声",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E9%9F%B3%E4%B9%90%E4%B9%8B%E5%A3%B0.png",  
+    "iurl": "https://satellitepull.cnr.cn/live/wxyyzs/playlist.m3u8",
+    "category": "Music"  
+  },
+  {
+    "name": "台艺之声",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/vota.jpg",  
+    "iurl": "https://votastream.ntua.edu.tw:8443/vota",
+    "category": "Music"  
+  },  
+  {
+    "name": "第一财经",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F%E5%B9%BF%E6%92%AD.png",  
+    "iurl": "https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8",
+    "category": "china" 
+  },
+  {
+    "name": "海峡之声·新闻",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E6%B5%B7%E5%B3%A1%E4%B9%8B%E5%A3%B0%E6%96%B0%E9%97%BB%E5%B9%BF%E6%92%AD.png",  
+    "iurl": "https://www.vos.com.cn/live/liveNew/800k/tzwj_video.m3u8",
+    "category": "china" 
+  }, 
+  {
+    "name": "农村电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E4%B9%A1%E6%9D%91%E4%B9%8B%E5%A3%B0.png",  
+    "iurl": "https://satellitepull.cnr.cn/live/wxxczs/playlist.m3u8",
+    "category": "china" 
+  },
+  {
+    "name": "神州之声",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/cnr%E7%A5%9E%E5%B7%9E%E4%B9%8B%E5%A3%B0.png",  
+    "iurl": "https://satellitepull.cnr.cn/live/wxszzs/playlist.m3u8",
+    "category": "china" 
+  },
+  {
+    "name": "晚间新闻",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/170x170_919.jpg",   
+    "iurl": "https://news.rthk.hk/rthk/ch/news-programmes/this-episode.htm?cmsid=88",   
+    "category": "podcast"  
+  },  
+  {
+    "name": "SBS中国",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E4%B9%A1%E6%9D%91%E4%B9%8B%E5%A3%B0.png",   
+    "iurl": "https://feeds.sbs.com.au/sbs-mandarin",   
+    "category": "podcast"  
+  },  
+  {
+    "name": "天黑请闭眼",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/jgimage.jpg",   
+    "iurl": "https://feed.firstory.me/rss/user/clu797e3n001401079ad1gwhk",   
+    "category": "podcast"  
+  },
+  {
+    "name": "SBS粤语",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/cfimage.jpg",   
+    "iurl": "http://feeds.sbs.com.au/sbs-cantonese",   
+    "category": "podcast"  
+  },
+  {
+    "name": "鬼遮眼",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/1645942133053.jpg",   
+    "iurl": "https://player.soundon.fm/p/f8966ee8-5c68-4a65-8de7-346ff4fd9246",   
+    "category": "podcast"  
+  },   
+  {
+    "name": "犯罪浮世繪",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/ytimage.jpg",   
+    "iurl": "https://feed.firstory.me/rss/user/cme85cej7020m01sxea9pbdr7",   
+    "category": "podcast"  
+  },
+  {
+    "name": "高能量",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/Fv0yZMvUrM25J1lQr20A3ABUqLk-.jpg",   
+    "iurl": "https://feed.xyzfm.space/jhfuba3dahq8",   
+    "category": "podcast"  
+  },  
+  {
+    "name": "謎之懸律",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/1632979900770.jpg",   
+    "iurl": "https://media.rss.com/melomysteries/feed.xml",   
+    "category": "podcast"  
+  },
+  {
+    "name": "正声广播",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/lsnruspdmtat.png",   
+    "iurl": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w349817577.m3u8",   
+    "category": "taiwan"  
+  },
+  {
+    "name": "上海故事",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E4%B8%8A%E6%B5%B7%E6%95%85%E4%BA%8B%E5%B9%BF%E6%92%AD.png",  
+    "iurl": "https://lhttp.qingting.fm/live/275/64k.mp3?app_id=web",
+    "category": "china" 
+  },
+  {
+    "name": "浦东广播",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E4%BA%9A%E6%B4%B2%E9%9F%B3%E4%B9%90%E5%8F%B0.png",  
+    "iurl": "https://lhttp.qingting.fm/live/5022341/64k.mp3?app_id=web",
+    "category": "china" 
+  },
+  {
+    "name": "联播网",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/lianbowang.jpg",  
+    "iurl": "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8",
+    "category": "taiwan2" 
+  },
+  {
+    "name": "南宁故事",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/nngs.jpg",  
+    "iurl": "https://hls.nntv.cn/nnradio/895_24.m3u8",
+    "category": "taiwan2" 
+  }, 
+  {
+    "name": "台廣台北一台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",  
+    "iurl": "http://43.254.16.40:8000/TN.AM801?.mp3",
+    "category": "taiwan2" 
+  },
+  {
+    "name": "天聲廣播",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",  
+    "iurl": "http://43.254.16.40:8000/ML.AM1215?.mp3",
+    "category": "taiwan2" 
+  },
+  {
+    "name": "鲶鱼夜话",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/GKwRIJEJFluWABCv8QJ2Uo0h.jpeg",   
+    "iurl": "https://www.ximalaya.com/album/66572833.xml",   
+    "category": "podcast"  
+  },
+  {
+    "name": "围头半岛",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/Flo117hGBnQP4kvHtDnVndVeA8nd.jpg",   
+    "iurl": "https://feed.xyzfm.space/n3nkrd6h33fe",   
+    "category": "podcast"  
+  },  
+  {
+    "name": "大愛",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",  
+    "iurl": "https://stream.radiojar.com/eme6n6k3rxhvv",
+    "category": "taiwan2" 
+  },
+  {
+    "name": "星岛中文",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025031035416809.jpg",  
+    "iurl": "https://nap.casthost.net/proxy/florence/stream.mp3",
+    "category": "taiwan2" 
+  },     
+  {
+    "name": "香港电台湾声",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025030404119703.jpg",  
+    "iurl": "https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/index_64_a.m3u8",
+    "category": "china" 
+  },
+  {
+    "name": "RTI华语",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/rti.png",  
+    "iurl": "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8",
+    "category": "taiwan"  
+  },    
+  {
+    "name": "安徽评书广播",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E5%AE%89%E5%BE%BD%E4%B9%8B%E5%A3%B0.png",  
+    "iurl": "https://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8",
+    "category": "china" 
+  },
+  {
+    "name": "古今风云",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/%E8%A5%BF%E6%B8%B8%E8%AE%B0.jpg",  
+    "iurl": "https://podcast.rthk.hk//podcast/people.xml",
+    "category": "audiobook" 
+  },   
+  {
+    "name": "三国演义",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/%E4%B8%89%E5%9B%BD.jpg",   
+    "iurl": "https://www.itingshu.net/youshengxiaoshuo/33339/",   
+    "category": "audiobook"  
+  },
+  {
+    "name": "乡村鬼故事",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/npr.png",  
+    "iurl": "https://www.ximalaya.com/album/40065770.xml",
+    "category": "audiobook" 
+  },   
+  {
+    "name": "中国通史",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/%E9%B9%BF%E9%BC%8E%E8%AE%B0.jpg",   
+    "iurl": "https://www.ximalaya.com/album/83619287.xml",   
+    "category": "audiobook"  
+  },
+  
+  {
+    "name": "AM1480",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/myradio.png",  
+    "iurl": "https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3",
+    "category": "china" 
+  },
+  {
+    "name": "AM1380",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/cheddar.png",  
+    "iurl": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%92%AD%E9%9F%B3-%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4-0600-0700/",
+    "category": "china" 
+  },   
+  {
+    "name": "KBS新闻",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/npr.png",   
+    "iurl": "http://world.kbs.co.kr/rss/Podcast_News_c.xml",   
+    "category": "podcast"  
+  },
+  {
+    "name": "凤城广播",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/hi-radio-fm-98-7.jpg",  
+    "iurl": "http://61.220.245.236:8080",
+    "category": "taiwan" 
+  },   
+  {
+    "name": "世新电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/shrs-88-1-fm.jpg",   
+    "iurl": "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/fm881/chunklist_w852256703.m3u8",   
+    "category": "taiwan"  
+  },
+  {
+    "name": "cancheers",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/cancheers.png",  
+    "iurl": "https://us3.internet-radio.com/proxy/cancheers?mp=/stream",
+    "category": "taiwan" 
+  },   
+  {
+    "name": "亚太电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/asia923.jpg",   
+    "iurl": "https://stream.rcs.revma.com/kydend74hv8uv",   
+    "category": "taiwan"  
+  },
+
+  {
+    "name": "三国演义",
+    "imageUrl": "https://storystudio.tw/storage/upload/article/2021/02/romance-of-the-three-kingdoms-some-not-true-1.jpg",   
+    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/podcast.xml",   
+    "category": "podcast"  
+  },
+  {
+    "name": "连城诀",
+    "imageUrl": "https://img9.doubanio.com/view/subject/s/public/s28735095.jpg",   
+    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/podcast（连）.xml",   
+    "category": "podcast"  
+  },  
+  {
+    "name": "倚天毒龙",
+    "imageUrl": "https://k.sinaimg.cn/n/sinakd10110/759/w468h291/20210825/179e-ed3119fe1c19b07e80a760056815110c.png/w700d1q75cms.jpg",   
+    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/podcast33（倚天）.xml",   
+    "category": "podcast"  
+  },  
+  {
+    "name": "now电台",
+    "imageUrl": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/02/15132729/Now-TV-Hong-Kong.jpg",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCChMBgirwM2nnT3Bbe8METQ",   
+    "category": "YT"  
+  },
+  {
+    "name": "有线新闻",
+    "imageUrl": "https://yt3.ggpht.com/5SyayqjT175EHx7Mox79MUkBCqCK5wXgu6IfQz3YoQFVByGncsc79K63Dmvr4FwYMAv_EsYJ6A=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_q7e5XYJB0JDGagcF0KW0w",   
+    "category": "YT"  
+  },
+  {
+    "name": "香港01",
+    "imageUrl": "https://yt3.googleusercontent.com/1BBL9IdyphJGQAZDdw3ObZS7Ai0IlTd1-tYrorGMYdVqW-5KM4mw3R6l-pENq12O48X_vje0gA=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTxyBu9VWUq5LXezXwy_SGg",   
+    "category": "YT"  
+  },  
+  {
+    "name": "RagaFinance",
+    "imageUrl": "https://yt3.ggpht.com/HqNFY7AwmSyVwjsCw9ZmMQvAfw3bU9SYCbiJTP1iGbChM2Ul4VHhdnGd-5_iFkaAVXpqKoedak0=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCETuQf4lzTrfevoHdSGo8Ew",   
+    "category": "YT"  
+  },
+  {
+    "name": "鬼故事",
+    "imageUrl": "https://yt3.ggpht.com/YXwkhVRl1CpaJ-LLT8AgEFGzQVTPxyAxFHZ34xCYVsF1VazwjuASeC5ig8bVt8O-skmBSCGVWw=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3DCSvMDwn3zn16wcbO1LOg",   
+    "category": "YT"  
+  },  
+  {
+    "name": "蔡金强",
+    "imageUrl": "https://f.chongwunet.com/chongwunet/202305/f2/cea23bcc863470.png",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyqvOe8x99HvV5zWTOwY-rw",   
+    "category": "YT"  
+  },
+  {
+    "name": "X调查",
+    "imageUrl": "https://yt3.ggpht.com/ytc/AIdro_kVUNaNKDQTpfRmiT13oelULSfwm2WaEwXyQ2gW5oz-5L8=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOyshL6rKK1GqwoEfy_ehBg",   
+    "category": "YT"  
+  }, 
+  {
+    "name": "恐怖热线旧线",
+    "imageUrl": "https://yt3.ggpht.com/ytc/AIdro_mY5XsKveD9MT6WAKylcXcq0wsUEY6U8_4BNrFj9R2-EQ=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxRmEqpk7bvP103b_7Ooqtw",   
+    "category": "YT"  
+  },
+  {
+    "name": "中天新闻",
+    "imageUrl": "https://yt3.googleusercontent.com/stUf6P7kJeOrW96ZKdaHoYvg6USCR0MOe90jfOp2oTLOdPWeQDIKNm6S25wcEzJBXuVLRNmAag=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5l1Yto5oOIgRXlI4p4VKbw",   
+    "category": "YT"  
+  }, 
+  {
+    "name": "AM730",
+    "imageUrl": "https://yt3.ggpht.com/ELaKQ6TkDhqhKFHwk828qfjIKl2xkeCuf2HHT2QemRivpIYcEzkn8eH0AgkseV3Ro7-0Sh7E=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzM2jQWmoeTvpEw63x5Rsdg",   
+    "category": "YT"  
+  },
+  {
+    "name": "JY频道",
+    "imageUrl": "https://yt3.googleusercontent.com/Q9XHxi2rqdyuwFuDiG-jKkH7-wxJWlIIC6onCBYpmzdJx6DE1Bvhp7W6rQEyX6AH96WqGSSAww=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWI8Lo26FN7G2QTef53Pt1Q",   
+    "category": "YT"  
+  },   
+  {
+    "name": "王局拍腿",
+    "imageUrl": "https://cdn-prd.content.metamorphosis.com/wp-content/uploads/sites/2/2022/02/Low-Phosphorus-Dog-Food-why.jpg",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBKDRq35-L8xev4O7ZqBeLg",   
+    "category": "YT"  
+  },
+  {
+    "name": "白话新闻",
+    "imageUrl": "https://yt3.googleusercontent.com/PM3TxF4xoOxg61J78UfvXHmVd_Ul2WlsV5eCOIvmqO51vZrDRmRS0wPbPMutsGDGhRnEV6vARw=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=KYrbEZB6yyg&list=PLh9lJwqeOuvNPqHfKf10o5Ql9M-OEnoLy",   
+    "category": "YTlist"  
+  },    
+  {
+    "name": "KK秀",
+    "imageUrl": "https://yt3.ggpht.com/_XJcoR0uVyW3VM4DNeHm35rYjIKYamYXeXW15sLe9U5jHus4eOHoxnxVAfbjMJpbw9s_CH03Rg=s240-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD2KoUc0f4Bv2Bz0mbOah8g",   
+    "category": "YT"  
+  },
+  {
+    "name": "四点神经",
+    "imageUrl": "https://yt3.ggpht.com/HqNFY7AwmSyVwjsCw9ZmMQvAfw3bU9SYCbiJTP1iGbChM2Ul4VHhdnGd-5_iFkaAVXpqKoedak0=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=ARo5XN80gM0&list=PLBlwm-p_M-Qw8y1QLXc3gvtFWJuXk1-2V",   
+    "category": "YTlist"  
+  },  
+  {
+    "name": "民报新闻",
+    "imageUrl": "https://yt3.ggpht.com/eq9GJ0t1CmnqrVFqohCpAQYtW6pzTwtg4ATiPJbjOtKGlHrcQ8FmY7b5taNl0crRQXs3GnOl=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2VmWn8dAqkzlQqvy02E1PA",   
+    "category": "YT"  
+  },    
+  {
+    "name": "NHK新闻",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/aifm.png",   
+    "iurl": "https://www3.nhk.or.jp/rj/podcast/rss/chinese.xml",   
+    "category": "podcast"  
+  }  
+]
